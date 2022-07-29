@@ -1,5 +1,8 @@
 Connect to device wifi (Default password 12345678)
+
+
 ![wifilast](https://user-images.githubusercontent.com/110237270/181786620-e33bde15-402a-4bb6-ba8b-22204275594c.png)
+
 
 If it does not appear in the wifi list, press the reset button of the device 2 times in succession.
 
